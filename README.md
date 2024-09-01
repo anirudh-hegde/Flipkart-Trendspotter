@@ -16,6 +16,12 @@ This project employs various data analysis techniques, including statistical ana
 * pyspark
 * google colab
 
+![insights](https://github.com/user-attachments/assets/e48be8b2-bb1b-41c1-b8f4-2cfe483fa7a9)
+
+
+![insight1](https://github.com/user-attachments/assets/1b26b78b-6c03-431d-88af-0a3da886c468)
+
+
 ### **Conclusion**
 
 The **"Flipkart Data Insights Project"** successfully provides a comprehensive understanding of the dynamics within Flipkart's e-commerce ecosystem. By analyzing the data on product ratings, reviews, pricing, and market trends, we have uncovered valuable insights that can drive strategic decisions and enhance business performance.
